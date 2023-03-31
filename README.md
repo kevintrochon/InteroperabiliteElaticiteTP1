@@ -10,6 +10,7 @@ Vous trouverez ici les applications réalisées pour le cours d'intéropérabili
 - Le dossier _client_ contient le client console java qui consume le client wsdl.
 - Le dossier _pythonProject_ est le client web python qui consume le client wsdl.
 - Le dossier _image_ contient les images pour le fichier _readme.md_.
+- Le dossier _data_example_ contient un example de fichier csv.
 
 ## <ins>Présentation du client</ins>
 
