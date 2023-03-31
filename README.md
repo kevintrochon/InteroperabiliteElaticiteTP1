@@ -18,3 +18,6 @@ Voici a quoi resemble le formulaire pour réaliser le calcule du K-means :<br>
 
 Voici la vue de résultat du calcul :<br>
 ![image](./image/vue_2.png)
+
+Voici la vue en mode console :<br>
+![image](./image/vue_3.png)
