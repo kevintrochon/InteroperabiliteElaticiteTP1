@@ -12,6 +12,13 @@ Vous trouverez ici les applications réalisées pour le cours d'intéropérabili
 - Le dossier _image_ contient les images pour le fichier _readme.md_.
 - Le dossier _data_example_ contient un example de fichier csv.
 
+## <ins>Mode d'emploi :</ins>
+
+1. Lancer l'apllication java qui se trouve dans le dossier _SoapTP_
+2. Installer le framework flak grâce au liens suivant : [URL](https://flask.palletsprojects.com/en/1.1.x/installation/)
+3. Installer la librairie zeep grâce au liens suivant : [URL](https://docs.python-zeep.org/en/master/)
+4. Lancer le programme python qui se trouve dans le dossier _pythonProject_ ou bien le programme java qui se trouve dans _client_.
+
 ## <ins>Présentation du client</ins>
 
 Voici a quoi resemble le formulaire pour réaliser le calcule du K-means :<br>
